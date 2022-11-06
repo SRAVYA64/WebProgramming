@@ -1,1 +1,20 @@
+<html>
+<head>
+<title> TEXT FORMATTING TAGS </title>
+<h1>Formatting tags</h1>
+</head>
+<body>
+<p>this is normal text</p>
+<p><b>this text is bold</b></p>
+<p><i>this text is italic </i></p>
+<p><strong> this is important text</strong></p>
+<p><em>this is emphasized text</em></p>
+<p><mark>this is marked text</mark></p>
+<p><small>this is smaller text</small></p>
+<p>my favourite color <del> orange </del> blue</p>
+<p>my favourite color <del> blue </del><ins>black</ins></p>
+<p>formula of water is H<sub>2</sub>O</p>
+<p> power of 2<sup>2</sup>is 4</p>
+</body>
+</html>
 
