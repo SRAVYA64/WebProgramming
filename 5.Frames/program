@@ -1,1 +1,29 @@
+//using row attributes
+<!DOCTYPE html>
+<html>
+<head>
+<title>Frames using row attribute</title>
+</head>
+<frameset rows = "50%, 50%,">
+<frame name = "top" src = "https://www.bing.com/images/search?q=dog+images&form=HDRSC2&first=1&tsc=ImageHo verTitle" />
+<frame name = "bottom" src = "https://www.bing.com/search?q=kitten+images&form=ANNTH1refig=e7501de069044555bf3 52ff8f68dc544&sp=2&qs=LS&pq=kitten&sk=AS1&sc=10- 6&cvid=e7501de069044555bf352ff8f68dc544l" />
+<noframes>
+<body>The browser you are working does not support frames.</body>
+</noframes>
+</frameset>
+</html>
+//using cols
+<!DOCTYPE html>
+<html>
+<head>
+<title>Frames using cols attribute</title>
+</head>
+<frameset cols = "50%, 50%,">
+<frame name = "top" src = "https://www.bing.com/images/search?q=dog+images&form=HDRSC2&first=1&tsc=ImageHo verTitle" />
+<frame name = "bottom" src = "https://www.bing.com/search?q=kitten+images&form=ANNTH1refig=e7501de069044555bf3 52ff8f68dc544&sp=2&qs=LS&pq=kitten&sk=AS1&sc=10- 6&cvid=e7501de069044555bf352ff8f68dc544l" />
+<noframes>
+<body>The browser you are working does not support frames.</body>
+</noframes>
+</frameset>
+</html>
 
