@@ -1,1 +1,14 @@
+<html>
+<head>JavaScript Event</head>
+<body>
+<script>
+function mouseup(){
+alert("This is mouse up event");
+}
+</script>
+<form>
+<p onmouseup = "mouseup()">Keep cursor here</p>
+</form>
+</body>
+</html>
 
