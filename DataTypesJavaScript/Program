@@ -1,1 +1,18 @@
+<html>
+<head>
+</head>
+<body>
+<script> var x=20;
+document.write("type of x : "+typeof(x)); var f=2.3;
+document.write("<br>type of f : "+typeof(f)); var s="hello"
+document.write("<br>type of s : "+typeof(s)); var a=[20,30,40,50]
+document.write("<br>type of a : "+typeof(a)); var y;
+document.write("<br>type of y : "+typeof(y)); var b=true;
+document.write("<br>type of b : "+typeof(b)); var d="it"+10+20;
+var e=10+20+"it"+30; var g=10+"it"+30;
+var j=10+20+"it"+30+40+50;
+document.write("<br> d value is : ",d); document.write("<br> e value is : ",e); document.write("<br> g value is : ",g); document.write("<br> j value is : ",j);
+</script>
+</body>
+</html>
 
