@@ -1,1 +1,31 @@
+<html>
+<head>Java script Functions</head>
+<body>
+<script>
+function fact(n) {
 
+if (n == 0) {
+return 1;
+ 
+}
+else {
+
+return n * fact(n - 1);
+}
+}
+ 
+ 
+var n = prompt('Enter a number: ');
+
+if (n >= 0) {
+var res = fact(n);
+document.write("<br>The factorial of ",n);
+document.write(" is:",res);
+ 
+}
+else {
+
+}
+</script>
+</body>
+</html>
