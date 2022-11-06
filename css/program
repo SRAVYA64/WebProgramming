@@ -1,1 +1,29 @@
+<html>
+<head>
+<style> body{
+background-color: yellow; color: blue;
+}
+h1{
+background-color: violet; color: green;
+text-align: center margin-top: 150px; margin-bottom: 50px; margin-left: 70px; padding-top: 30px; padding-bottom: 30px; padding-left: 30px; border-style: solid; border-top-width: 10px; border-top-color: green; font-family: sans-serif;
+}
+p{
+background-color: pink; color: red;
+font-size: 50px; margin-left: 70px; padding bottom: 50px;
+border-top-width: 40px; border-style: solid;
+}
+.hey{
+background-color: pink;
+}
+.hii{
+background-color: orange;
+}
+</style>
+</head>
+<body>
+<h1>welcome</h1>
+<h2 class="hey"> how are you</h2>
+<p>BVRIT HYDERABAD COLLEGE OF ENGINEERING FOR WOMEN</p>
+<p class="hii">hello</p>
+</body> </html>
 
