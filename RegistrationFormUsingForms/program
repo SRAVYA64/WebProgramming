@@ -1,1 +1,33 @@
+<html>
+<head>
+<title> Registration FORM </title>
+<h1><center>REGISTRATION FORM</centre></h1>
+</head>
+<body bgcolor="Lightyellow">
+<br>
+<br>
+<form>
+<label> Firstname: </label>
+<input type="text" name="firstname" size="15"/> <br> <br>
+<label> Middlename: </label>
+<input type="text" name="middlename" size="15"/> <br> <br>
+<label> Lastname: </label>
+<input type="text" name="lastname" size="15"/> <br> <br>
+<label>phone number:</label>
+<input type="textfield"></input><br><br>
+<label>Gender</label><br>
+<input type="radio" name="male"/> Male <br>
+<input type="radio" name="female"/> Female <br>
+<br>
+<br>
+<label>Address</label><br>
+<textarea cols="50" rows="4" ></textarea><br> <br>
+<label>email:</label>
+<input type="email" id="email" name="email"/> <br>
+<br> <br>
+<input type="button" value="Submit"></input>
+<input type="button" value="cancel"></input>
+</form>
+</head>
+</html>
 
