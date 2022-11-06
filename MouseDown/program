@@ -1,1 +1,15 @@
+<html>
+<head>JavaScript Events</head>
+<body>
+<script>
+function mousedown(){
+
+alert("This is mouse down event");
+}
+</script>
+<form>
+<p onmousedown = "mousedown()">Keep Cursor Here</p>
+</form>
+</body>
+</html>
 
