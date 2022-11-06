@@ -1,1 +1,16 @@
+<html>
+<body>
+<script> function fact(){
+var fact = 1, i, n;
+n = prompt("Enter n value:"); 
+for(i = 1;i <= n;i++){
+fact = fact*i;
+}
+document.write("Factorial of ",n);
+document.write(" is:",fact);
+}
+fact();
+</script>
+</body>
+</html>
 
