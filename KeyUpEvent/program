@@ -1,1 +1,12 @@
-
+//keyup
+<html>
+<head>JavaScript Events</head>
+<body>
+<h2>Enter Something</h2>
+<input type = "text" id="input1" onkeyup = "keyupevent()"/>
+<script>
+function keyupevent(){ document.getElementById("input1"); alert("This is KeyUp Event");
+}
+</script>
+</body>
+</html>
