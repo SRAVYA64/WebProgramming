@@ -1,1 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+document.write("VARAIBLES IN JAVASCRIPT"); var a=100;
+document.write("<br>var a= ",a); document.write("<br>Redeclaration of var"); var a=50;
+document.write("<br>a= ",a);
+
+var d;
+document.write("<br>NOT initializing d"); document.write("<br>d= ",d);
+let z=150; document.write("<br>let z = ",z);
+document.write("<br>Reasssigning value to let z"); z=200;
+document.write("<br>z = ",z);
+
+//let z = 250;
+//document.write("<br>let z = ",z); const c=100; document.write("<br>cons c = ",c); c=150;
+document.write("<br>const c = ",c);
+</script>
+</body>
+</html>
 
