@@ -1,1 +1,13 @@
+<html>
+<head>JavaScript Events</head>
+<body>
+<script>
+function onmouseoverevent(){ document.write("This is mouse over event");
+}
+</script>
+<form>
+<p onmouseover = "onmouseoverevent()">Keep cursor over this</p>
+</form>
+</body>
+</html>
 
