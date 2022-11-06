@@ -1,1 +1,28 @@
+<html>
+<head>
+<title>
+BUITLT-IN FUNCTIONS
+</title>
+</head>
+<script>
+
+document.write("Properties of Math"); 
+document.write("<br>PI = ",Math.PI); 
+document.write("<br>LN2 =",Math.LN2); 
+document.write("<br>LN10 =",Math.LN10); 
+document.write("<br>Built-in functions of Math");
+document.write("<br>sqrt = ",Math.sqrt(49)); 
+document.write("<br>cbrt = ",Math.cbrt(216)); 
+document.write("<br>floor = ",Math.floor(7.7)); 
+document.write("<br>Ceil = ",Math.ceil(7.7)); 
+document.write("<br>Random = ",Math.random());
+document.write("<br>floor of Random = ",Math.floor(Math.random()*10)); 
+document.write("<br>Boolean = ",Boolean(25>9)); 
+document.write("<br>max = ",Math.max(100,200)); 
+document.write("<br>min = ",Math.min(100,200)); 
+document.write("<br>sign(10) = ",Math.sign(10)); 
+document.write("<br>sign(-10) = ",Math.sign(-10));
+</script>
+</html>
+
 
