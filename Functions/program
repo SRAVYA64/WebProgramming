@@ -1,1 +1,27 @@
+<html>
+<body>
+<script>
+function fun1(x,y){ return (x*y);
+}
+var y = fun1(2,5)
+document.write("<br>with arguments with return value"); document.write("<br>product of 2 and 5 is: ",y);
+
+function fun2(){ var x=100; return x+1;
+}
+var res = fun2()
+document.write("<br>No arguments with return value"); document.write("<br> res is:",res)
+
+function fun3(){ var a = 20;
+document.write("<br>No arguments No return value"); document.write("<br> a is :", a)
+}
+fun3()
+
+function fun4(a,b){
+document.write("<br>With arguments no return value"); document.write("<br> sum of 2 and 3 is :",a+b);
+}
+fun4(2,3)
+
+</script>
+</body>
+</html>
 
