@@ -1,1 +1,17 @@
+<html>
+<head>JavaScript Event Handling</head>
+<body>
+<script>
+function mouseonclick(){
+
+alert("This is onclick event");
+}
+</script>
+<form>
+<p onclick = "mouseonclick()">click here</p>
+</form>
+</body>
+</html>
+
+
 
